@@ -39,7 +39,7 @@ This tool enables **forecasting**, **inventory optimization**, **customer/produc
   - Simulated demand distributions
   - Visualizations for supply chain risk
 
-### 👥 3. Customer & Product Segmentation
+###  3. Customer & Product Segmentation
 - **Purpose**: Identify key products, customers, and supplier performance
 - **Key Outputs**:
   - Sales by supplier/category
