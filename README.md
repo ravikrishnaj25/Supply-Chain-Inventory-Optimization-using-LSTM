@@ -11,7 +11,7 @@
 
 
 
-# 📦 Supply Chain Data Modelling Streamlit App
+# Supply Chain Data Modelling Streamlit App
 
 A comprehensive, interactive Streamlit app designed for **supply chain analytics and data modelling** in the pharmaceutical industry.
 
