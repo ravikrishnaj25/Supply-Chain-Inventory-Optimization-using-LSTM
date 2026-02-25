@@ -21,7 +21,7 @@ This tool enables **forecasting**, **inventory optimization**, **customer/produc
 
 ##  Features at a Glance
 
-### 🔮 1. Forecast Future Demand (LSTM Model)
+###  1. Forecast Future Demand (LSTM Model)
 - **Purpose**: Predict future demand using historical sales.
 - **Tech**: LSTM Neural Network (Keras)
 - **Key Outputs**:
