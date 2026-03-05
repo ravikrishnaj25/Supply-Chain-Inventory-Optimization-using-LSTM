@@ -29,7 +29,7 @@ This tool enables **forecasting**, **inventory optimization**, **customer/produc
   - Mean Absolute Percentage Error (MAPE)
   - Downloadable forecast data
 
-### 📦 2. Inventory Optimisation & Simulation
+### 2. Inventory Optimisation & Simulation
 - **Purpose**: Optimize stock levels with:
   - EOQ (Economic Order Quantity)
   - Safety Stock
